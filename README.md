@@ -96,7 +96,7 @@ The dashboard supports both **light and dark modes** and features visualizations
 This project demonstrates how security-aware organizations can leverage Splunk to:
 
 - Monitor availability
-- Surface performance anomalie
+- Surface performance anomalies
 - Identify browser/OS compatibility issue
 - Track fraud-related behavior by geography
 - Align insights across cross-functional teams in a single platform
